@@ -4,16 +4,17 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="task2.css" />
+    <script src="task2.css"></script>
     <title>My Portfolio</title>
   </head>
   <body>
     <header>
-      <h1>khemaraj mahajan</h1>
+      <h1>Rajdeep Yadav</h1>
       <p>AIML engineer| data engineerp
     </header>
 
     <section id="about">
-      <img src="profile.jpg" alt="khemaraj mahajan" />
+      <img src="profile.jpg" alt="Rajdeep Yadav" />
     </section>
 
     <section id="about1">
@@ -39,19 +40,21 @@
     </section>
     <section id="resume">
       <h2>Resume</h2>
-      <p><a href="KHEMARAJ MAHAJAN-2.docx" download> Download Resume (PDF)</a></p>
+      <p><a href="RAJDEEP YADAV-2.docx" download> Download Resume (PDF)</a></p>
     </section>
     <section id="contact">
       <h2>Contact</h2>
-      <p>Email: khemarajmahajan@003@gmail.com</p>
-      <p>Phone: 8600209385</p>
+      <p>Email: yadavrajdeep2028@gmail.com</p>
+      <p>Phone: 7666775699</p>
     </section>
     <footer>
-      <p>&copy; 2023 khemarajmahajan. All rights reserved.</p>
+      <p>&copy; 2023 Rajdeepyadav. All rights reserved.</p>
     </footer>
   </body>
 </html>
-=======================================================================================================
+
+=======================================================================================================================================================================
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -127,4 +130,3 @@ body {
     text-align: center;
     padding: 20px 0;
   }
-========================================================================================
