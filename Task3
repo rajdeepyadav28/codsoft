@@ -4,9 +4,10 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="task3.css" />
+    <script src="task3.css"></script>
     <title>Basic Calculator</title>
   </head>
-  <!--Made By Aditya Konda (Task 3 Level 1) Hope it Helps You-->
+  
   <body>
     <div class="calculator">
       <div class="boxer" id="boxer">Calculator</div>
@@ -31,14 +32,16 @@
       <button class="btn" id="equals">=</button>
 
       <div class="display2" id="display2">
-        CodSoft Web Development Internship Level 1:-
-        Task 3
+        CodSoft  Internship L1:-
+        T3
       </div>
     </div>
-    <script src="task3.js"></script>
+    <script src="index.js"></script>
   </body>
 </html>
-=================================================================================================================
+
+=============================================================================================================================================================================
+
 body {
     display: flex;
     justify-content: center;
@@ -98,8 +101,9 @@ body {
   .about {
     text-align: center;
   }
-  
-=======================================================================================================
+
+===================================================================================================================================================================
+
 document.addEventListener("DOMContentLoaded", function () {
     const display = document.getElementById("display");
     let currentInput = "0";
@@ -204,3 +208,5 @@ document.addEventListener("DOMContentLoaded", function () {
   
     updateDisplay();
   });
+
+
